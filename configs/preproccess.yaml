@@ -1,0 +1,5 @@
+target_sr: 24000
+clip_seconds: 3.0
+hop_seconds: 1.5
+silence_rms_threshold: 0.01
+peak_target_: 0.95
